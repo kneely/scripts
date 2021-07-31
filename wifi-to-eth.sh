@@ -12,7 +12,7 @@
 # Don't forget to change the name of network interface
 # Check them with `ifconfig`
 
-ip_address="192.168.2.1"
+ip_address="192.168.20.1"
 netmask="255.255.255.0"
 dhcp_range_start="192.168.2.2"
 dhcp_range_end="192.168.2.100"
